@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/alejandro-martinez-6782202b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://alejandromartinez0912.github.io/MiPorfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portafolio">
+  </a>
 </div>
 
 ---
@@ -40,8 +43,6 @@
 
 ## 🎓 Educación  
 🎓 **Analista en Sistemas de Computación** *(2020 - 2025)*  
-🎓 **Auxiliar en Programación** *(2020 - 2022)*  
-🎓 **Analista Programador** *(2020 - 2023)*  
 🎓 **Licenciatura en Sistemas de Información** *(2020 - Actualidad)*  
 🎓 **Profesor Universitario en Computación** *(2020 - Actualidad)*  
 
